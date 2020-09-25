@@ -1,2 +1,2 @@
 # three.js-fundamentals
-Examples from "Three.js Fundamentals" tutorials
+Examples from [Three.js Fundamentals](https://threejsfundamentals.org/) tutorials.
